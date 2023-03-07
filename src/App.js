@@ -50,7 +50,7 @@ citySubmit = async (cityNameInput) => {
     return (
       <>
         <header>
-          <h1>Data from API</h1>
+          <h1>Pick a Destination</h1>
         </header>
         <main>
           <CityForm
