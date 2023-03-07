@@ -46,7 +46,7 @@ citySubmit = async (cityNameInput) => {
     let cityCoordinates = 'latitude: '+lat+', longitude: '+long;
 
     let mapURL = `https://maps.locationiq.com/v3/staticmap?key=${process.env.REACT_APP_LOCATIONIQ_API_KEY}&center=${lat},${long}&zoom=12`;
-
+    console.log(mapURL);
     return (
       <>
         <header>
