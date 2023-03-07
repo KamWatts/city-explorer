@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+# City Explorer
+
+**Author**: Kameron Watts
+**Version**: 1.0.0
+
+## Overview
+
+This app is being built to provide the modern nomad with the access to explore any city they want - prior to visiting. City Explorer is an interactive map generator that gives user information any particular location they want to know about.
+
+The app will include information about the long/lat of any city, geographical data, and images.
+
+==========================================================================
+
+## Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -45,6 +58,26 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+==========================================================================
+
+## Architecture
+<!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
+
+==========================================================================
+
+## Change Log
+<!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
+
+01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
+
+==========================================================================
+
+## Credit and Collaborations
+
+[Nate Brown](https://github.com/nate-brown-1)
+
+==========================================================================
+
 ### Code Splitting
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
@@ -68,4 +101,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 # city-explorer
