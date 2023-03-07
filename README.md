@@ -9,6 +9,8 @@ This app is being built to provide the modern nomad with the access to explore a
 
 The app will include information about the long/lat of any city, geographical data, and images.
 
+Click[here]()
+
 ==========================================================================
 
 ## Getting Started
