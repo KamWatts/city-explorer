@@ -34,7 +34,6 @@ class App extends React.Component {
 
   citySubmit = async (cityNameInput) => {
     let url = `https://us1.locationiq.com/v1/search?key=${process.env.REACT_APP_LOCATIONIQ_API_KEY}&q=${cityNameInput}&format=json`;
-    console.log(url);
     try {
       let searchedCity = await axios.get(url);
       console.log(searchedCity);
@@ -60,7 +59,6 @@ class App extends React.Component {
   weatherSubmit = async () => {
     const { lat, lon, cityNameInput } = this.state;
     const url = `${process.env.REACT_APP_SERVER}/weather?lat=${lat}&lon=${lon}&format=json&city_name=${cityNameInput}`;
-  console.log(url);
     try {
       const weatherData = await axios.get(url);
       console.log(weatherData);
