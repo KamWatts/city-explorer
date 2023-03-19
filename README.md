@@ -13,6 +13,14 @@ Click [here](https://incandescent-seahorse-23f8ce.netlify.app) to view the webpa
 
 ==========================================================================
 
+## Collaboraters
+
+Special thanks to:
+
+Anthony Keith
+Miranda Lu
+
+
 ## Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
